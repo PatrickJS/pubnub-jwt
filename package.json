@@ -1,0 +1,30 @@
+{
+  "name": "pubnub-jwt",
+  "version": "0.0.1",
+  "description": "pubnub-jwt",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pubnub",
+    "jwt",
+    "json web token",
+    "jwt-pubnub",
+    "pubnub-jwt"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdi2290/pubnub-jwt.git"
+  },
+  "author": "gdi2290 <github@gdi2290.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdi2290/pubnub-jwt/issues"
+  },
+  "homepage": "https://github.com/gdi2290/pubnub-jwt",
+  "dependencies": {
+    "jsonwebtoken": "^0.2.0",
+    "xtend": "^2.2.0"
+  }
+}
